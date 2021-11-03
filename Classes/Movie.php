@@ -32,3 +32,4 @@ class Movie {
         return $this->genre;
     }
 };
+
